@@ -1,0 +1,7 @@
+Flask
+Flask-MySQLdb
+Flask-Mail
+bcrypt
+pyodbc
+
+#pip install -r requirements.txt
